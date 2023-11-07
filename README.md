@@ -54,7 +54,7 @@ FlashCardPro is an essential tool designed to help students enhance their study 
 
 * Flashcard Library
 * Flashcard Review
-* Calendar View
+
 
 **Flow Navigation** (Screen to Screen)
 
