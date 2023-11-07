@@ -22,6 +22,6 @@
 ## App Evaluation Stage
 My top 2 app ideas are:
 1. Memory Match
-2. Scrabble
+2. FlashcardPro
 
 
