@@ -47,8 +47,6 @@ FlashCardPro is an essential tool designed to help students enhance their study 
 * User can delete flashcards.
 - [ ] Flashcard Creation
 * User can create flashcards for different subjects and topics.
-- [ ] Calendar View **(Optional)**
-* User can view flashcards in a calendar view.
 
 ### 3. Navigation
 
@@ -64,7 +62,7 @@ FlashCardPro is an essential tool designed to help students enhance their study 
 * Flashcard Creation, for creating new flashcards
 - [ ] Flashcard Creation
 * Flashcard Review, returns to this screen after creating new flashcards
-- [ ] Calendar View
+- [ ] Icon View
 * None
 
 ## Wireframes
