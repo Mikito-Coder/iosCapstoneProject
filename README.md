@@ -69,7 +69,8 @@ FlashCardPro is an essential tool designed to help students enhance their study 
 
 [Insert hand-drawn wireframes here or provide a link to digital wireframes]
 
-### [BONUS] Digital Wireframes & Mockups
+### [BONUS] Dig![IMG_5748](https://github.com/Mikito-Coder/iosCapstoneProject/assets/67525316/68264a86-6e35-4f1c-91a1-07949a0dd991)
+ital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
 
