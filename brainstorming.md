@@ -45,3 +45,4 @@ My top 2 app ideas are:
 * **Habit:** Players will engage with Memory Match when they desire a mental challenge or a brief, brain-stimulating pastime. The game's user-friendly interface encourages repeated use.
 * **Scope:** Memory Match development focuses on game mechanics, user interface design, and an intuitive user experience. The project is well-suited for those interested in game development, with no complex technical challenges.
 
+*After a thorough assessment of the app ideas, I ultimately decided to develop FlashcardPro. This choice was influenced by the realization that creating a simplified version of IdeaConnect would involve significantly more technical complexity.*
