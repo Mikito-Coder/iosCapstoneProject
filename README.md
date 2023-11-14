@@ -58,9 +58,9 @@ FlashCardPro is an essential tool designed to help students enhance their study 
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Flashcard Review
+- [x] Flashcard Review
 * Flashcard Creation, for creating new flashcards
-- [ ] Flashcard Creation
+- [x] Flashcard Creation
 * Flashcard Review, returns to this screen after creating new flashcards
 - [ ] Icon View
 * None
